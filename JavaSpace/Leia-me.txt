@@ -1,0 +1,15 @@
+﻿FORMA DE EXECUÇÃO:
+
+Apache River
+- dentro da pasta "\examples\space"
+
+
+WINDOWS
+start-services.bat
+
+LINUX
+% sh start-services.sh (executa os serviços)
+
+
+
+
