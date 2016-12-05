@@ -1,15 +1,7 @@
-﻿FORMA DE EXECUÇÃO:
+﻿FORMA DE EXECUÇÃO do Apache River:
 
-Apache River
-- dentro da pasta "\examples\space"
-
-
+Vá na pasta "\examples\space" execute o serviço de acordo com seu SO:
 WINDOWS
 start-services.bat
-
 LINUX
 % sh start-services.sh (executa os serviços)
-
-
-
-
